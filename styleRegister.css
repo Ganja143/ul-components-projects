@@ -1,0 +1,372 @@
+@import url("https://fonts.googleapis.com/css?family=Sen:400,700,800|Neuton:200,700,400");
+body{
+  background: rgba(241, 21, 180, 0.35);
+  
+}
+.flex-container {
+ 
+  /*align-items: flex-start;*/
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /*margin-right: auto;
+  overflow: hidden;
+  background: url(Bergin-bottle-collage-sm.jpg);
+ /*background-size: cover;*/
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.overlap-group {
+  height: 1036px;
+  margin-left: -4px;
+  position: relative;
+  width: 1445px;
+}
+
+.vector-1 {
+  height: 11px;
+  left: 785px;
+  position: absolute;
+  top: 635px;
+  width: 9px;
+}
+
+.sign-in {
+  color: 
+#bf92e2;
+  font-family: var(--font-family-neuton);
+  font-size: 70PX;
+  font-weight: 700;
+  left: 250px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 100px;
+}
+
+.flex-item {
+  background-color: 
+#f9fbf1;
+  height: 744px;
+  left: 721px;
+  position: absolute;
+  top: 120px;
+  width: 723px;
+  margin-right: 15px;
+}
+
+.sign-up {
+  cursor: pointer;
+  left: 1014px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 724px;
+  width: 130px;
+ font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+text-align: center;
+
+color: #FFF3F3;
+  
+}
+
+
+.rectangle-24 {
+  background-color: 
+#e3e7dd80;
+  height: 744px;
+  left: 4px;
+  position: absolute;
+  top: 117px;
+  width: 717px;
+  background-image: url("bergin-bottle-collage-sm 1.png");
+}
+
+.kelsey-knight-udj2t-d3-w-ks-y-unsplash-2 {
+  height: 169px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 867px;
+  width: 1440px;
+}
+
+.creating-the-greates {
+    position: absolute;
+    width: 724px;
+    height: 110px;
+    left: -4px;
+    top: 550px;
+    font-family: 'Neuton';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 46px;
+    text-align: center;
+    color: #FFFFFF;
+    mix-blend-mode: hard-light;
+    opacity: 0.8;
+}
+
+.rectangle-26 {
+  background-color: 
+#d313cb4c;
+  border: 1px solid 
+#00000033;
+  filter: blur(45px);
+  height: 165px;
+  left: 6px;
+  position: absolute;
+  top: 860px;
+  width: 1439px;
+}
+
+
+.bergin-bottle-collage-sm-1 {
+  height: 744px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 717px;
+}
+
+.rectangle-33 {
+  background-color: 
+#966596;
+  border-radius: 85px;
+  cursor: pointer;
+  height: 64px;
+  position: absolute;
+  width: 200px;
+  left: 250px;
+top: 550px;
+
+font-family: 'Sen';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+text-align: center;
+
+color: #FFF3F3;
+
+
+
+
+}
+
+.sparky-wines {
+  
+position: absolute;
+width: 441px;
+height: 242px;
+left: 108px;
+top: 241px;
+font-family: 'Neuton';
+font-style: normal;
+font-weight: 275;
+font-size: 96px;
+line-height: 121px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.username {
+  color: 
+#a672c5;
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 854px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 532px;
+}
+
+.cell-number {
+  color: 
+#9e70b7;
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 852px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 467px;
+  width: 178px;
+}
+
+
+
+.bergin-bottle-collage-sm-3 {
+  height: 1024px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width:2000px;
+  background: url(Bergin-bottle-collage-sm.jpg);
+filter: blur(36px);
+
+}
+
+.password {
+  color: 
+#b782e0;
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 852px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 583px;
+}
+.flex-item.fname{
+position: relative;
+width: 181px;
+height: 31px;
+left: 25px;
+top: 270px;
+font-family: 'Sen';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+text-align: center;
+padding: 12px;
+margin: 10px;
+
+color: #BD8FDD;
+
+}
+.dea{
+position: absolute;
+width: 310px;
+height: 23px;
+left: 250px;
+top: 14px;
+background: #FAFCF1;
+border-left: 0;
+border-right: 0;
+border-top: 0;
+}
+.see{
+    
+        position: absolute;
+        width: 310px;
+        height: 23px;
+        left: 250px;
+        top: 50px;
+        background: #FAFCF1;
+        border-left: 0;
+        border-right: 0;
+        border-top: 0; 
+
+}
+.saw{
+    position: absolute;
+    width: 310px;
+    height: 23px;
+    left: 250px;
+    top: 93px;
+    background: #FAFCF1;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    }
+.sai{
+    position: absolute;
+    width: 310px;
+    height: 23px;
+    left: 250px;
+    top: 135px;
+    background: #FAFCF1;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    }
+    .FG{
+position: absolute;
+width: 181px;
+height: 31px;
+left: 5px;
+top: 120px;
+font-family: 'Sen';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+text-align: center;
+padding: 12px;
+margin: 10px;
+
+color: #BD8FDD;
+    }
+
+  .FF{
+      position: absolute;
+      width: 181px;
+      height: 31px;
+      left: 5px;
+      top: 85px;
+      font-family: 'Sen';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 31px;
+      text-align: center;
+      padding: 12px;
+      margin: 10px;
+
+      color: #BD8FDD;
+  }
+  .FO{
+
+    position: absolute;
+    width: 181px;
+    height: 31px;
+    left: 5px;
+    top: 45px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: center;
+    padding: 12px;
+    margin: 10px;
+
+    color: #BD8FDD;
+}
+.FN{
+
+  position: absolute;
+  width: 181px;
+  height: 31px;
+  left: 5px;
+  top: -2px;
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 31px;
+  text-align: center;
+  padding: 12px;
+  margin: 10px;
+
+  color: #BD8FDD;
+}
